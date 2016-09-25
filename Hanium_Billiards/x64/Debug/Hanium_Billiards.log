@@ -1,0 +1,45 @@
+﻿  main.cpp
+d:\tools\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\tools\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\tools\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\tools\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(140): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(141): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(324): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(325): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(383): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(397): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(402): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(410): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(412): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(414): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(416): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(428): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(441): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(442): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(446): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(456): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(457): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(458): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(466): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(466): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(467): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(467): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(479): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(482): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(483): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(484): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(508): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(524): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(530): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(531): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(532): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(534): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(535): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(536): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(537): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(566): warning C4244: '=': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(567): warning C4244: '=': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\hanium_billiards\hanium_billiards\main.cpp(568): warning C4244: '=': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Hanium_Billiards.vcxproj -> C:\Users\Administrator\Desktop\Hanium_Billiards\x64\Debug\Hanium_Billiards.exe
+  Hanium_Billiards.vcxproj -> C:\Users\Administrator\Desktop\Hanium_Billiards\x64\Debug\Hanium_Billiards.pdb (Full PDB)

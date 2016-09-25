@@ -154,7 +154,7 @@ void callBackFunc(int event, int x, int y, int flags, void* userdata)
 		if (event == EVENT_LBUTTONUP)
 		{
 			tableColorSet = false;
-			btntableColor.setText("Setting~~");
+			btntableColor.setText("Setting..");
 		}
 	}
 	//당구대 색상 설정
